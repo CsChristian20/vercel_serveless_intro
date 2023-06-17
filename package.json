@@ -1,0 +1,22 @@
+{
+  "name": "ejercicios_tres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "_moduleAliases": {
+    "@mock": "./mock/data",
+    "@mock/remote": "./mock/remote"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "http-status-codes": "^2.2.0",
+    "joi": "^17.9.2",
+    "module-alias": "^2.2.3"
+  }
+}
